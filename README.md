@@ -12,7 +12,6 @@ Branch - CS2
 
 Semester - S3
 
-### Hosted Pookalam Link
 
 ### Pookalam Description
 
@@ -20,19 +19,25 @@ The pookalam celebrates Onam's spirit through code🎇🌼. Using Python's Joy l
 
 ### Technologies Used
 
-Python 3
+- Python 3
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Joy library
+- Joy library
 
-### Video explaining How you build the pookalam
+### How to Run
+
+1. Install Jupyter: `pip install notebook`
+2. Download joy.py to your folder
+3. Run: `jupyter notebook`
+4. Open pookalam.ipynb and run all cells
 
 
 
 ### Screenshots
 
-<img width="1102" height="600" alt="screenshot" src="https://github.com/user-attachments/assets/1587e85b-6dae-41b6-8763-fccfb517421e" />
+<img width="1102" height="600" alt="screenshot12" src="https://github.com/user-attachments/assets/ecb3b5f6-da53-4880-89dc-7e4a99723774" />
+
 
 Happy Onam ! <br>
 Made with ❤️ at TinkerHub LBSITW
