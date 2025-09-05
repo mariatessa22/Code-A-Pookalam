@@ -32,6 +32,13 @@ The pookalam celebrates Onam's spirit through code🎇🌼. Using Python's Joy l
 3. Run: `jupyter notebook`
 4. Open pookalam.ipynb and run all cells
 
+### Video
+
+
+https://github.com/user-attachments/assets/84d7aafb-979d-4ad8-a1f0-796ddbb75da3
+
+
+
 
 
 ### Screenshots
